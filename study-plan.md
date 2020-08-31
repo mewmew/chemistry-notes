@@ -5,6 +5,12 @@ total 247 problems
 
 # Week 1
 
+## 2020-08-31, Mån - F0
+
+* [ ] Arbete på ett kemilab (kap 1) -`Extramaterial/arbete_pa_kemilab.pdf`
+* [ ] Laborationer - kompendium (page v-viii) - `Laborationer/labkomp_ht20.pdf`
+* [ ] Rundvandring på kurslaboratoriet - `Videos/Rundvandring--MW5VFp09HU.mkv`
+
 ## 2020-09-01, Tis - F1, Introduktion, grundbegrepp
 
 (page 6-40) 34 pages, 21 problems (part 1)
