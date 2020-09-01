@@ -1,0 +1,27 @@
+# F2 - notes
+
+2020-09-01
+
+## Energi och materiens omvandlingar
+
+* 1.6 Termokemi, exoterma och endoterma reaktioner
+* 1.6 Energi - an användbar social konstruktion
+* 1.7 Aggregationstillstånd
+* 1.8 Intra- och inter-molekylära växelverkningar
+* 1.9 Kemisk jämnvikt, Le Chateliers princip
+
+## Exoterma reaktioner
+
+\delta H: Enthalpy (entalpi, betyder värme)
+
+Värme ges till omgivningen.
+
+\delta H negativ
+
+## Exoterma reaktioner
+
+Värme tas upp från omgivningen.
+
+\delta H positiv
+
+Stabilare molekyler har lägre energinivå.
