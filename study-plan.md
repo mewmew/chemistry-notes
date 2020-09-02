@@ -7,9 +7,9 @@ total 247 problems
 
 ## 2020-08-31, Mån - F0
 
-* [ ] Arbete på ett kemilab (kap 1) -`Extramaterial/arbete_pa_kemilab.pdf`
-* [ ] Laborationer - kompendium (page v-viii) - `Laborationer/labkomp_ht20.pdf`
-* [ ] Rundvandring på kurslaboratoriet - `Videos/Rundvandring--MW5VFp09HU.mkv`
+* [x] Arbete på ett kemilab (kap 1) - `Extramaterial/arbete_pa_kemilab.pdf`
+* [x] Laborationer - kompendium (page v-viii) - `Laborationer/labkomp_ht20.pdf`
+* [x] Rundvandring på kurslaboratoriet - `Videos/Rundvandring--MW5VFp09HU.mkv`
 
 ## 2020-09-01, Tis - F1, Introduktion, grundbegrepp
 
@@ -17,8 +17,9 @@ total 247 problems
 
 * [x] 1.2 Enheter och omvandlingar, bara en snabb koll
 * [x] 1.3 Mol-begreppet
-* [ ] Avogadros tal och molbegreppet har på senare tid blivit lite omdefinierat. Hur? Har det praktisk
+* [x] Avogadros tal och molbegreppet har på senare tid blivit lite omdefinierat. Hur? Har det praktisk
 betydelse?
+    - tidigare kopplat till C_12, numera per definition (utan direkt koppling till C_12).
 * [x] 1.4 Balansering av reaktioner, utbyte
 * [x] 1.5 Koncentration,volym och substansmängd. Spädningar, m.m.
 
