@@ -48,7 +48,3 @@ aktivitet bara av intresse i makroskopiska sammanhang.
 ##  Le Chateliers princip
 
 * Jämviktsläge - jämvikt, balans
-
-2020-09-02
-
-# F3, Gaser
