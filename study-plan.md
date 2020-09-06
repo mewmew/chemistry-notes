@@ -39,11 +39,11 @@ betydelse?
 
 (page 342-380) 38 pages, 33 problems
 
-* [ ] 8.1 Gaser och några varianter av gaslagar
-* [ ] 8.2 Allmänna gaslagen
-* [ ] 8.3 Gasblandningar,partialtryck
-* [ ] 8.4, 8.5 Kinetisk gasteori, mikroskopisk modell för tryck, hastighetsfördelningar
-* [ ] 8.6 Verkliga gaser – icke ideala gaser
+* [x] 8.1 Gaser och några varianter av gaslagar
+* [x] 8.2 Allmänna gaslagen
+* [x] 8.3 Gasblandningar,partialtryck
+* [x] 8.4, 8.5 Kinetisk gasteori, mikroskopisk modell för tryck, hastighetsfördelningar
+* [x] 8.6 Verkliga gaser – icke ideala gaser
 
 (page 764-812) 48 pages, 32 problems
 
