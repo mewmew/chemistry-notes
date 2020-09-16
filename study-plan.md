@@ -3,6 +3,16 @@
 total 397 pages
 total 247 problems
 
+- [x] Chapter 1
+- [ ] Chapter 7
+- [x] Chapter 8
+- [ ] Chapter 9
+- [ ] Chapter 13
+- [ ] Chapter 14
+- [ ] Chapter 15
+- [ ] Chapter 16
+- [ ] Chapter 17
+
 # Week 1
 
 ## 2020-08-31, Mån - F0
